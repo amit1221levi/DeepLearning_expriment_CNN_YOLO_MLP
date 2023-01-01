@@ -1,0 +1,26 @@
+brotlipy @ file:///D:/bld/brotlipy_1666764815687/work
+certifi==2022.9.24
+cffi @ file:///D:/bld/cffi_1666754845955/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+conda==22.9.0
+conda-content-trust @ file:///home/conda/feedstock_root/build_artifacts/conda-content-trust_1621370699668/work
+conda-package-handling @ file:///D:/bld/conda-package-handling_1666837486404/work
+cryptography @ file:///D:/bld/cryptography_1667424754813/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+libmambapy @ file:///D:/bld/mamba-split_1667627121829/work/libmambapy
+mamba @ file:///D:/bld/mamba-split_1667627121829/work/mamba
+menuinst @ file:///D:/bld/menuinst_1666840019111/work
+pycosat @ file:///D:/bld/pycosat_1666836850580/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1665350324128/work
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+pywin32==304
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+ruamel-yaml-conda @ file:///D:/bld/ruamel_yaml_1666819853770/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+wincertstore==0.2
